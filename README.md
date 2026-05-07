@@ -63,6 +63,40 @@ Works on all modern browsers that support:
 - CSS3
 - ES6 JavaScript
 
+## 🌐 Hosting & Deployment
+
+### Option 1: GitHub Pages (Free & Easy) ⭐
+1. Go to your repository settings
+2. Scroll to "GitHub Pages" section
+3. Select "main" branch as source
+4. Your calculator will be live at: `https://NisanOfficial.github.io/Nisan-calculator/`
+
+### Option 2: Netlify (Free)
+1. Go to [netlify.com](https://netlify.com)
+2. Click "New site from Git"
+3. Connect your GitHub repository
+4. Deploy automatically on every push
+5. Get a live URL in minutes
+
+### Option 3: Vercel (Free)
+1. Go to [vercel.com](https://vercel.com)
+2. Import your GitHub repository
+3. Deploy with one click
+4. Get automatic deployments on push
+
+### Option 4: Firebase Hosting (Free)
+1. Install Firebase CLI: `npm install -g firebase-tools`
+2. Run: `firebase init`
+3. Select "Hosting" option
+4. Deploy: `firebase deploy`
+
+### Option 5: Traditional Web Hosting
+- Upload files via FTP to any web hosting provider
+- Access via your domain name
+
+## Live Demo
+Once hosted, access your calculator from anywhere via the live URL!
+
 ## License
 
 This project is open source and available for personal and educational use.
